@@ -22,7 +22,7 @@
 
 emoji :joy:
 
->blockquote
+>blokkidézet
 
 
 
