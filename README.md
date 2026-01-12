@@ -26,7 +26,8 @@ emoji :joy:
 
 ## Táblázat
 
-| Syntax | Description |
+| Syntax      | Description |
 | ----------- | ----------- |
-| fejléc | cím |
-| paragráfus | szöveg |
+| Header      | Title       |
+| Paragraph   | Text        |
+
