@@ -16,7 +16,7 @@
 
 `kód`
 
-[cím](https://github.com/kek-i-misa)
+[Link](https://github.com/kek-i-misa)
 
 ![kép alternatív szövege](kép.jpg)
 
@@ -31,3 +31,7 @@ emoji :joy:
 | Fejlés       | Cím         |
 | Paragráfus   | írás        |
 
+~~Áthúzás~~
+
+Dolog
+: definíció
