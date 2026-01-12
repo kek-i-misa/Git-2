@@ -33,5 +33,11 @@ emoji :joy:
 
 ~~Áthúzás~~
 
-Dolog
-: definíció
+Alsó <sub>index</sub>
+
+Felső <sup>index</sup>
+
+<ins>Aláhúzás</ins>
+
+***Félkövér és dőlt***
+
