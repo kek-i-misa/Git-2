@@ -18,13 +18,8 @@
 
 [cím](https://github.com/kek-i-misa)
 
-![alternatív szöveg](kép.jpg)
+![kép alternatív szövege](kép.jpg)
 
 emoji :joy:
 
 >blokkidézet
-
-
-
-
-
