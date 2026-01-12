@@ -16,7 +16,7 @@
 
 `kód`
 
-[Link](https://github.com/kek-i-misa)
+[Link](https://github.com/kek-i-misa/Git-2?tab=readme-ov-file)
 
 ![kép alternatív szövege](kép.jpg)
 
