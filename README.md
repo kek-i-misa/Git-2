@@ -16,13 +16,13 @@
 
 `kód`
 
-[title](https://github.com/kek-i-misa)
+[cím](https://github.com/kek-i-misa)
 
-![alt text](kép.jpg)
+![alternatív szöveg](kép.jpg)
 
 emoji :joy:
 
-==kiemelés==
+>blockquote
 
 
 
